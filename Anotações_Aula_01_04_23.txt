@@ -1,0 +1,41 @@
+Basica HTML e CSS Estrutura Semantica
+
+conteudo do site: <div class ´´container main ``
+ site pronto: <!DOCTYPE html>
+Roda pe e o <footer>
+Exemplo: Abre uma chave 
+Aberta: <div>
+Fechada: </div>
+Como chamar o CSS: <link>
+<ol> : lista Ordenada 
+<ul> : Linta Não Ordenada
+
+Exemplo 2: sobre <ul> e <ol>
+
+ <ul>    <il>
+   
+*bebe  1:nenem
+*bebe  2:nenem
+*bebe  3:nenem
+
+Site de codigos HTML: w3chools
+
+Como fazer uma tabela no HTML:
+
+<table style="width:100%">
+  <tr>
+    <th>thalys</th>
+    <th>thalys</th>
+    <th>thalys</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
